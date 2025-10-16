@@ -1,2 +1,2 @@
-# torahpoly-live
-Torah Monopoly React game
+# Monopoly Starter Template
+Basic starter for Monopoly-style board game.
